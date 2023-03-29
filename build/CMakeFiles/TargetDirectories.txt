@@ -1,3 +1,0 @@
-/Users/virgileagnel/work/personal/vulkan/triangle-vulkan/build/CMakeFiles/TriangleVulkan.dir
-/Users/virgileagnel/work/personal/vulkan/triangle-vulkan/build/CMakeFiles/edit_cache.dir
-/Users/virgileagnel/work/personal/vulkan/triangle-vulkan/build/CMakeFiles/rebuild_cache.dir
