@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    Triangle::App app;
+    Triangle::App app(800, 600, "Triangle");
 
     try
     {
